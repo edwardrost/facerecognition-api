@@ -1,2 +1,2 @@
 # facerecognition-api
-API for FaceRecjgnition React project
+API for FaceRecognition React project
